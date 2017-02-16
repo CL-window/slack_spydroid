@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout/preview.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout/preview.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout/spydroid.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout/spydroid.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout/tablet.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout/tablet.xml"
+    }
+]

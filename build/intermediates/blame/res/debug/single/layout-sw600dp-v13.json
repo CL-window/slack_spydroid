@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout-sw600dp-v13/spydroid.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout-sw600dp/spydroid.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout-sw600dp-v13/preview.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout-sw600dp/preview.xml"
+    },
+    {
+        "merged": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/build/intermediates/res/merged/debug/layout-sw600dp-v13/tablet.xml",
+        "source": "/Users/jf/Desktop/slack/project/stream/Stream1/spydroid/src/main/res/layout-sw600dp/tablet.xml"
+    }
+]
